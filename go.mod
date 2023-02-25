@@ -20,7 +20,7 @@ require (
 	github.com/stretchr/objx v0.2.0
 	github.com/stretchr/testify v1.5.1
 	github.com/thoas/go-funk v0.4.0
-	golang.org/x/crypto v0.0.0-20200414173820-0848c9571904
+	golang.org/x/crypto v0.1.0
 	gopkg.in/yaml.v2 v2.3.0
 	gopkg.in/yaml.v3 v3.0.0-20191010095647-fc94e3f71652
 	k8s.io/apimachinery v0.18.3
